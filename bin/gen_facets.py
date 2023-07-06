@@ -21,7 +21,6 @@ for record in records:
     libs_by_type[record["Type"]].append(record)
 
     
-ok = libs_by_state["OK"]
 fieldnames = reader.fieldnames
 
 for state in libs_by_state.keys():
