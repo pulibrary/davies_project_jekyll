@@ -31,3 +31,10 @@ for state in libs_by_state.keys():
         for rec in libs_by_state[state]:
             writer.writerow(rec)
         
+for type in libs_by_type.keys():
+    with open(f"{type}.csv", "w", newline="", encoding="utf-8") as csvfile:
+        writer = DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for rec in libs_by_state[state]:
+            writer.writerow(rec)
+    
