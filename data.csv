@@ -1,12 +1,4 @@
-PLUS,McMullen,State,Locality,Name,Type,"Found.
-Date","First
-Ref.","Latest
-Ref.","Cess.
-Date","ED for
-Size","Size
-at ED","LD for
-Size","Size
-at LD",card_image
+PLUS,McMullen,State,Locality,Name,Type,Found_Date,First_Ref,Latest_Ref,Cess_Date,ED_for_Size,Size_at_ED,LD_for_Size,Size_at_LD,card_image
 1,2081,ME,Blue Hill,Social Library of Blue Hill,Socl,1796,,1869,,,0,,0,https://library.princeton.edu/visual_materials/mcmullen/gif/02081.gif
 2,2074,ME,Belfast,Social Library,Socl,,1858,1859,,,0,,0,https://library.princeton.edu/visual_materials/mcmullen/gif/02074.gif
 4,222,CA,San Jose,Young man's literary association,YMA,1856,,1858,,1858,1000,1858,1000,https://library.princeton.edu/visual_materials/mcmullen/gif/00222.gif
