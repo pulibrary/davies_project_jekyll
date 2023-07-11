@@ -2,7 +2,7 @@
 title: Library Data
 ---
 <table>
-  {% for row in site.data.libraries %}
+  {% for row in site.data.alb1876 %}
     {% if forloop.first %}
 	<tr>
 		{% for pair in row %}
