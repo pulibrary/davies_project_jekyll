@@ -1,7 +1,7 @@
 from csv import DictReader, DictWriter
 
 
-datafile = "../data.csv"
+datafile = "../alb1876.csv"
 
 records = []
 with open(datafile, encoding='utf-8') as f:
