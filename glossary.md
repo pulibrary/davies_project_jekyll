@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Types of Libraries
+title: Glossary
 ---
 
 Academy Library
